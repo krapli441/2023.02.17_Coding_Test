@@ -1,0 +1,37 @@
+@media screen and (min-width:1024px) {
+  .main_screen_2 {
+    width: 1024px;
+    height: 1258px;
+  }
+
+  .bottom_nav_2 {
+    width: 1024px;
+    height: 200px;
+  }
+
+  .main_hr {
+    width: 750px;
+  }
+
+
+  .main_screen_2 > i {
+    position: relative;
+    top: 0px;
+    right: 600px;
+    line-height: 129.54px;
+    font-size: 71px;
+    color: white;
+}
+
+  .bottom_nav_2_text {
+    width: 90%;
+    line-height: 13px;
+}
+
+}
+
+@media screen and (max-width:430px) {
+  .main_screen_2_text > hr {
+    display: none;
+  }
+}
