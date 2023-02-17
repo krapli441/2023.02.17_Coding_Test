@@ -2,5 +2,18 @@
   width: 430px;
   height: 200px;
   background-color:#333333;
-  ;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom_nav_2_text {
+  width: 80%;
+  line-height: 13px;
+}
+
+.bottom_nav_2_text > span {
+  display: block;
+  font-size:8px;
+  font-weight: 400;
+  color:#F0F0F0;
 }
