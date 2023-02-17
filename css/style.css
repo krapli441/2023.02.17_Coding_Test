@@ -1,6 +1,6 @@
 body {
-  width: 100vw;
-  height: 200vh;
+  width: 430px;
+  height: 1864px;
   margin:0px;
 }
 
@@ -34,3 +34,4 @@ body {
 .container_2 > div {
   display: flex;
 }
+

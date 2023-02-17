@@ -1,0 +1,60 @@
+@media screen and (min-width:1024px) {
+  body {
+    width: 1024px;
+    height: 1366px;
+  }
+
+  #main_container {
+    width: 100vw;
+    height: 200vh;
+  }
+
+  .container {
+    width: 1024px;
+    height: 1366px;
+  }
+
+  .top_nav {
+    width: 1024px;
+    height: 110px;
+  }
+
+  .top_nav > i {
+    display: none;
+  }
+
+  .main_screen {
+    width: 100%;
+    height: 1166px;
+  }
+
+
+  .main_screen > .main_screen_text {
+    width: 95%;
+    position: relative;
+    top: -180px;
+    left: 30px;
+  }
+
+  .main_screen > .main_screen_text > span {
+    line-height: 75px;
+    font-weight: 700;
+  }
+
+  .container_2 {
+    width: 1024px;
+    height: 1366px;
+  }
+
+  .bottom_nav {
+    position:relative;
+    right:330px;
+    bottom: 350px;
+    width: 1024px;
+    height: 200px;
+  }
+
+
+
+}
+
