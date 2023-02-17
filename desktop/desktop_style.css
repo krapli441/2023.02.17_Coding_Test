@@ -1,3 +1,5 @@
+/* 데스크탑 해상도 설정 */
+
 @media screen and (min-width:1628px) {
   body {
     width: 100vw;
