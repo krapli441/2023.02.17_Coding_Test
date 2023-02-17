@@ -1,0 +1,36 @@
+body {
+  width: 100vw;
+  height: 200vh;
+  margin:0px;
+}
+
+#main_container {
+  width: 100vw;
+  height: 200vh;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 430px;
+  height: 932px;
+  background-color: white;
+}
+
+.container > div {
+  display: flex;
+}
+
+
+.container_2 {
+  display: flex;
+  flex-direction: column;
+  width: 430px;
+  height: 932px;
+  background-color: wheat;
+}
+
+.container_2 > div {
+  display: flex;
+}

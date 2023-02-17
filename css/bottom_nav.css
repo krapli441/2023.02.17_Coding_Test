@@ -1,0 +1,23 @@
+.bottom_nav {
+  flex-direction: column;
+  align-items: center;
+  width: 430px;
+  height: 200px;
+  justify-content: space-around;
+}
+
+.bottom_nav > i {
+  font-size: 14px;
+  color:black;
+  text-align: center;
+  transform: rotate(90deg);
+  color:#2196F3;
+
+}
+
+.bottom_nav > span {
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  color: #2196F3;
+}
